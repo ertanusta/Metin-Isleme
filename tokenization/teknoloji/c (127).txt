@@ -1,0 +1,1 @@
+﻿ “ http ://:” şeklinde gelen mesajların skype uygulamasını önce dondurduğu ardından kullanıcıyı uygulamadan attığı görüldü skype ’ ta yaşanan sorun uygulamanın android windows ios hatta mac os sürümlerinde görülürken dokunmaya duyarlı windows sürümünde problem yaşanmadı
