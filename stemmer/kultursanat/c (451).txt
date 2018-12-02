@@ -1,0 +1,1 @@
+['kate', 'winslet', 'nişanla', 'ingilter', 'kraliçes', 'oscarlı', 'yıldız', 'kate', 'winslet', '\x92', 'a', 'sana', 'katkı', 'dola', '\x91', 'şövalyelik', 'nişa', '\x92', 'nın', 'üçüncü', 'rütbes', 'ola', '\x91', 'komu', '\x92', 'nişa', 'tak', 'töre', 'buckingha', 'sara', '\x92', 'nda', 'yapıl']

@@ -1,0 +1,1 @@
+['\ufeff', 'sar', '-', 'kırmızılı', 'kap', 'selçuk', 'ina', 'düğün', 'sonra', 're', 'kriz', 'çık', 'çırağa', 'rüya', 'dük', 'selçuk', 'ina', 'bir', 'yıl', 'kaptanlık', 'neden', 'ara', 'bozuk', 'olduk', 'iddia', 'edile', 'sabri', 'sarıoğlu', 'katılmadı']

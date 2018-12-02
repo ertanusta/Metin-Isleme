@@ -1,0 +1,1 @@
+['\ufeff', '“', 'http', '://:”', 'şekl', 'gele', 'mesaj', 'skype', 'uygulama', 'ö', 'dondurduk', 'ardı', 'kullanıcı', 'uygulama', 'attık', 'görül', 'skype', '’', 'ta', 'yaşana', 'sor', 'uygulama', 'androidi', 'windows', 'ios', 'hat', 'mac', 'os', 'sürüm', 'görülür', 'dokunma', 'duyarlı', 'windows', 'sürüm', 'proble', 'yaşanmadı']

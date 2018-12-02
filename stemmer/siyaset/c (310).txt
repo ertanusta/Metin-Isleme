@@ -1,0 +1,1 @@
+['\ufeff', 'hdp', 'eş', 'genel', 'başka', 'selahat', 'demirtaş', 'koalisyo', 'tartışma', 'ilişk', 'konuş', 'demirtaş', '"', 'ak', 'parti', 'chp', 'ilke', 'kabul', 'eder', 'destek', 'verir', 'türkiye', 'ön', 'açacak', 'hükümet', 'çıkacak', 'inanıyor', 'çöz', 'süreç', 'ni', 'askı', 'alınmas', 'hata', 'dönülmes', 'laz', '"', 'dedi']

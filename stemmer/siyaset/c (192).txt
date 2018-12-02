@@ -1,0 +1,1 @@
+['\ufeff', 'cumhurbaşka', 'recep', 'tayyip', 'erdoğa', 'cumhurbaşka', 'abdullah', 'gül', 'tbmmde', 'cumhurbaşka', 'süleyma', 'demirel', 'düzenlene', 'devlet', 'tören', 'ardı', 'tbmm', 'başka', 'cemil', 'çiçek', 'meclis', 'maka', 'oda', 'görüş', 'dakik', 'süre', 'görüşme', 'sonras', 'cumhurbaşka', 'erdoğa', 'tbmmden', 'ayrılır', 'gazeteci', 'herhangi', 'bir', 'açıkla', 'yapmadı']

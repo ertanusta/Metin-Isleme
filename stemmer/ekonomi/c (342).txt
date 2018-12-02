@@ -1,0 +1,1 @@
+['\ufeff', 'otogaz', 'litre', 'fiyat', 'kuruş', 'tüpgaz', 'kilogra', 'fiyat', 'kuruş', 'indir', 'gel', 'indirim', 'hazira', 'itibar', 'geçerli', 'olacak']

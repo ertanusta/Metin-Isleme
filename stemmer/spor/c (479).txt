@@ -1,0 +1,1 @@
+['\ufeff', 'cimbo', 'şampiyonluk', 'sonras', 'ayrılık', 'haber', 'günde', 'gele', 'felip', 'melo', 'ye', 'sözleşme', 'yapmayarak', 'geçerli', 'protokol', 'devam', 'isteyecek']

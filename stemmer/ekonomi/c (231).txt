@@ -1,0 +1,1 @@
+['\ufeff', 'deva', 'tiklay']

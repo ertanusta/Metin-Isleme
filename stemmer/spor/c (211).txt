@@ -1,0 +1,1 @@
+['\ufeff', 'istanbul', 'başakşehir', 'kayser', 'erciyesspor', 'forma', 'giye', 'yaş', 'or', 'sah', 'oyuncus', 'cenk', 'ahmet', 'alkılıç', 'anlaşma', 'var', 'tecrübel', 'futbolcu', '+', '1', 'yıllık', 'sözleşme', 'imza', 'at']

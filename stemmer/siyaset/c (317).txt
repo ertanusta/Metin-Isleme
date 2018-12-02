@@ -1,0 +1,1 @@
+['\ufeff', 'radikal', '-', 'tbmm', 'danışma', 'kurul', 'meclis', 'başkanlık', 'seç', 'takv', 'belirledi', 'p', 'gör', 'başkanlık', 'seçim', 'ilk', 'ik', 'tur', 'hazira', 'sal', 'g', 'yapılacak', 'ik', 'tur', 'başka', 'belli', 'olmaz', 'üçüncü', 'tur', 'oyla', 'çarşamba', 'g', 'olacak']

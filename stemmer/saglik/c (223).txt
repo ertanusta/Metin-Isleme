@@ -1,0 +1,1 @@
+['\ufeff', 'dünya', 'sağlık', 'örgüt', '(', 'dsö', ')', 'sözcüs', 'christian', 'lindmeier', 'birleş', 'millet', '(', 'bm', ')', 'cenevre', 'ofi', 'düzenledik', 'ba', 'toplantı', 'mers', 'in', 'olduk', 'ölüm', 'hakk', 'bilgi', 'ver', 'kabus', 'deva', 'ediyor', '!']

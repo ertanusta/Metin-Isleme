@@ -1,0 +1,1 @@
+['\ufeff', 'tkm', '-', 'ebol', 'isimli', 'aş', 'nın', 'üreticis', 'ola', 'kana', 'nın', 'britisih', 'colombia', 'eyalet', 'bağlı', 'burnaby', 'kent', 'kurul', 'tekmira', 'yapıla', 'açıklama', 'ilaç', 'klinik', 'deney', 'durdurulduk', 'bildiril', 'ebola', 'kurtul', '!']

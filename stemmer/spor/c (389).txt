@@ -1,0 +1,1 @@
+['\ufeff', 'cimbo', 'brezilyal', 'oyuncus', 'felip', 'melo', 'ispanya', 'ligi', 'takım', 'sevilla', 'anlaş', 'sar', '-', 'kırmızılı', 'yıl', 'sözleşmes', 'bulunma', 'rağme', 'yıllık', 'ye', 'kontrat', 'isteye', 'sambaç', 'olumsuz', 'yanıt', 'al', 'ayrılık', 'karar', 'ver']

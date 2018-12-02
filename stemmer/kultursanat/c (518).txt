@@ -1,0 +1,1 @@
+['daveti', 'kazana', 'isim', 'belli', 'ol', 'iş', 'kas', 'cumartes', 'akşa', 'indigo', '\x92', 'gerçekleşecek', 'extrawelt', 'liv', '\x92', 'a', 'çift', 'kişilik', 'bilet', 'kazana', 'şanslı', 'okurlarımızmert', 'taner', 'berna', 'gülbaş', 'zeynep', 'gacar']

@@ -1,0 +1,1 @@
+['\ufeff', 'istanbul', '-', 'geçtik', 'sezo', 'sadeç', 'dakik', 'forma', 'giye', 'a', 'yılmaz', '2', 'milyo', 'do', 'karşılık', 'sözleşme', 'imzala', 'düşünces', 'sar', '-', 'kırmızıl', 'taraftar', 'sosyal', 'medya', 'üzer', 'yürüttük', 'kampanya', 'neden', 'gerçekleşmedi']

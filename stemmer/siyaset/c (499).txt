@@ -1,0 +1,1 @@
+['yerel', 'seç', 'tarih', 'açıkla', 'başbaka', 'erdoğa', 'yerel', 'seç', 'mart', 'te', 'yapılacak', 'açıkladı', 'başbaka', 'recep', 'tayyip', 'erdoğa', 'parti', 'tbmm', 'grup', 'toplantıs', '’', 'nda', '"', 'büyükşehir', 'yasas', '’', 'nda', 'hizmet', 'anlayış', 'yeni', 'düzenliyor', 'yerel', 'seçim', 'mart', '’', 'ın', 'normal', 'zaman', 'yapacak', '"', 'dedi']

@@ -1,0 +1,1 @@
+['\ufeff', 'ankar', '-', 'cumhurbaşka', 'recep', 'tayyip', 'erdoğa', 'tbmm', 'genel', 'kurul', 'döne', 'yasa', 'yıl', 'açılış', 'tören', 'katıl', 'cumhurbaşka', 'erdoğa', 'meclis', 'resmi', 'töre', 'karşıla', '(', 'ümit', 'koza', '/', 'dha', ')']

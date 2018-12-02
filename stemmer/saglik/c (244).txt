@@ -1,0 +1,1 @@
+['\ufeff', 'ö', 'salgı', 'sınır', 'kaesongu', 'sanayi', 'bölge', 'kuzey', 'kore', 'ye', 'yayılma', 'önlemek', 'seul', 'dan', 'yar', 'isteye', 'pyongyangı', 'yönet', 'ginsengi', 'diğer', 'doğal', 'malzeme', 'üretile', '"', 'kumdangı', '-', '2', '"', 'adlı', 'ilaç', 'mers', 'i', 'tedav', 'edebilecek', 'sav', '10', 'soru', 'mers', 'virüs']
