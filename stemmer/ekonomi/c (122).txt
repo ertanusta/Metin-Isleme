@@ -1,1 +1,0 @@
-['sanayi', 'üretim', 'artış', 'sanayi', 'üret', 'endeksi', 'eylül', 'ay', 'geçe', 'yıl', 'aynı', 'ay', 'gör', 'yüz', '2', 'arttı']

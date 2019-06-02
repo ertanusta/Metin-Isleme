@@ -1,1 +1,0 @@
-['\ufeff', 'baka', 'şimşek', 'döne', 'milletvekil', 'olarak', 'türki', 'büyük', 'millet', 'mecli', 'milletvekil', 'yem', 'et', 'baka', 'şimşek', 'eş', 'esra', 'şimşek', 'eş', 'yalnız', 'bırakmadı', 'esra', 'şimşek', 'ye', 'kürsü', 'çıktık', 'sıra', 'baka', 'şimşek', 'cep', 'telefon', 'çek', 'yap', 'ahmet', 'umur', 'öztürk']

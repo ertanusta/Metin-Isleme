@@ -1,1 +1,0 @@
-['\ufeff', 'başbakanlık', 'kaynak', 'edinile', 'bilgi', 'gör', 'ak', 'parti', 'grup', 'toplantıs', 'yar', 'saat', '00', '’', 'ak', 'parti', 'genel', 'merkez', '’', 'nde', 'yapılacak', 'toplantı', 'ye', 'seçile', 'milletvekil', 'katılacak', 'belirtil', 'iha']

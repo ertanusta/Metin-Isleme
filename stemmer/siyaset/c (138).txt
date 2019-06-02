@@ -1,1 +1,0 @@
-['\ufeff', 'chp', 'genel', 'başka', 'kemal', 'kılıçdaroğlu', 'de', 'baykal', 'tbmmdek', 'ye', 'töre', 'önces', 'bir', 'görüşme', 'gerçekleştiriyor']

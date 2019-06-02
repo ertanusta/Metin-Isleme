@@ -1,1 +1,0 @@
-['\ufeff', 'avrup', 'birlik', 'bakanlık', 'gerçekleşe', 'kabul', 'ba', 'mensup', 'gör', 'alma', 'ardı', 'kapal', 'olarak', 'deva', 'et', 'nurullah', 'geyla']

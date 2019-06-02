@@ -1,1 +1,0 @@
-['\ufeff', 'başbakanlık', 'çanka', 'köşkü', '’', 'nde', 'yapıla', 'topla', 'ba', 'kapal', 'gerçekleştiril', 'toplantı', 'ardı', 'açıkla', 'yapılmaz', 'kurul', 'üye', 'y', 'çanka', 'köşkü', '’', 'nde', 'düzenlene', 'iftar', 'yemek', 'geç']

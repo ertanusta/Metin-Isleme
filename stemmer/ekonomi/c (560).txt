@@ -1,1 +1,0 @@
-['\ufeff', 'radikal', '-', 'akaryakıt', 'dağıt', 'şirket', 'gün', 'ö', 'benz', 'satış', 'fiyat', 'litre', 'ortala', 'kuruş', 'artırma', 'ardı', 'benz', 'yeni', 'zam', 'gel', 'benzi', 'litre', 'fiyat', 'kuruş', 'zam', 'yapıl', 'böyleç', 'g', 'benz', 'kuruş', 'zamla', 'ol']

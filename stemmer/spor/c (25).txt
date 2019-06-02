@@ -1,1 +1,0 @@
-['\ufeff', 'sıl', 'şah', 'dekoltel', 'fotoğraf', 'kendi', 'ait', 'sosyal', 'medya', 'hesap', 'yayınladı', 'fotoğraf', 'alt', 'mevlana', '"', 'niç', 'in', 'gör', 'üzer', 'elbis', 'yok', '!', 'niç', 'elbise', 'gör', 'iç', 'in', 'yok', '"', 'söz', 'not', 'olarak', 'düş']

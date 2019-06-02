@@ -1,1 +1,0 @@
-['\ufeff', 'fenerbahçe', 'yabancı', 'kaleç', 'sorun', 'çöz', 'dünya', 'kupa', 'yıldız', 'parlaya', 'the', 'wall', '(', 'duvar', ')', 'lakap', 'ala', 'davidi', 'osp', 'kulüp', 'oyuncu', 'anlaşa', 'kanarya', 'cop', 'america', 'sonra', 'transfer', 'açıklayacak']

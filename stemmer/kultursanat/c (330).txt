@@ -1,1 +1,0 @@
-['123', 'urba', 'lounge', '13112012', '22', ':', '00', '123', '\x92', 'ü', '\x93', 'aksel', '\x94', '\x93', 'arve', '\x94', 'karakter', 'kitaplı', 'cd', '\x92', 'ler', 'buluştura', 'grup', 'olarak', 'tanıdık', 'ubugu', 'lounge', 'eski', 'ye', 'parça', 'oluşa', 'bir', 'set', 'sal', 'gece', 'ısıtma', 'geliyor', 'kadar', ':', '2300', 'tl']

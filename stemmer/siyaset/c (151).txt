@@ -1,1 +1,0 @@
-['\ufeff', 'hdp', 'eş', 'genel', 'başka', 'demirtaş', 'hdp', 'myk', 'önces', 'genel', 'merkez', 'bina', 'geliş', 'ba', 'mensup', 'tbmm', 'başka', 'aday', 'ilgil', 'sorus', 'üzer', '"', 'aday', 'dengir', 'mer', 'mehmet', 'fırat', '"', 'cevap', 'ver']

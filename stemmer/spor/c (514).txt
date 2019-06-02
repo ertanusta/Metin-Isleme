@@ -1,1 +1,0 @@
-['\ufeff', 'bursaspor', 'kulüp', 'başka', 'recep', 'bölükbaş', 'yaş', 'başarıl', 'oyuncu', 'serdar', 'aziz', 'konu', 'resmi', 'teklif', 'yapa', 'galatasaray', 'kulüp', 'veto', 'ettik', 'orta', 'çık']

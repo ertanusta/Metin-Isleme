@@ -1,1 +1,0 @@
-['faiz', 'rekor', '!', 'tahvil', 'faiz', 'tarih', 'düşük', 'seviyes', '78', '\x92', 'e', 'geriledi', 'ayrın', 'biraz']

@@ -1,1 +1,0 @@
-['\ufeff', 'detaylı', 'kan', 'tetkik', 'yapıla', 'erka', 'kaş', 'orha', 'gül', 'ortopedi', 'iç', 'hastalık', 'göz', 'kulak', 'bur', 'boğaz', 'genel', 'cerrah', 'kardiyoloj', 'bölüm', 'muaye', 'edil', 'futbolcu', 'sağlık', 'kontrol', 'akciğer', 'kardiyak', 'test', 'radyolojik', 'kontroller', 'yapılma', 'tamamla']

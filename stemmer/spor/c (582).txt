@@ -1,1 +1,0 @@
-['kılıç', 'sporcu', 'ağırladı', 'gençlik', 'spor', 'baka', 'suat', 'kılıç', 'dünya', 'avrup', 'şampiyona', 'derece', 'gire', 'işitme', 'engelli', 'sporcu', 'makam', 'kabul', 'et', 'ziyare', 'dünya', 'avrupa', 'derece', 'gire', 'sporcu', 'sporcu', 'antrenör', 'katıl', 'baka', 'kılıç', 'sporcu', 'türk', 'millet', 'ses', 'ola', 'başarı', 'imza', 'at', 'dedi']

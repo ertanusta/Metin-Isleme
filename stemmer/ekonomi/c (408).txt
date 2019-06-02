@@ -1,1 +1,0 @@
-['\ufeff', 'istanbul', 'kapalıçarşı', '6910', 'lira', 'alına', 'do', '6950', 'lira', '07', 'lira', 'alına', 'euro', '0750', 'lira', 'satıl', 'öncek', 'kapanış', 'do', '70', 'lira', 'euro', '0630', 'lira', 'satılmış']

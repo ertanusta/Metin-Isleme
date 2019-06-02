@@ -1,1 +1,0 @@
-['\ufeff', 'avrup', 'oyun', 'nda', 'erkek', 'serbest', 'stil', 'kilo', 'yarışa', 'milli', 'g', '&', 'uumlreş', '&', 'ccedil', 'tah', 'akg', '&', 'uumll', 'final', 'belaruslu', 'aleksei', 'shemarov', 'u', 'yenerek', 'al', 'madalya', 'kaza', 'ayrın', 'geliyor']

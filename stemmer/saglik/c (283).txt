@@ -1,1 +1,0 @@
-['\ufeff', 'radikal', 'izmit', 'belediyes', 'zabı', 'müdürlük', 'ekip', 'kent', 'rut', 'denetim', 'sıra', 'ilginç', 'bir', 'ola', 'karşılaş', 'zabı', 'ekip', 'denet', 'girdik', 'bir', 'lokanta', 'mutfak', 'canlı', 'tavuk', 'bul']

@@ -1,1 +1,0 @@
-['\ufeff', 'ilçe', 'ilçe', 'kiralik', 'ev', 'fiyat', 'tiklay']

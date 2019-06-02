@@ -1,1 +1,0 @@
-['\ufeff', 'bor', 'istanbul', '(', 'bist', ')', 'endeksi', 'hafta', 'ilk', 'gün', 'yüz', '56lık', 'yükseliş', 'başladı', 'endeks', '60', 'puanlık', 'yükseliş', 'bin', 'puan', 'baş', 'açılış', 'bankacılık', 'endeksi', 'yüz', '66', 'holdingi', 'endeksi', 'yüz', '40', 'değer', 'kaza']

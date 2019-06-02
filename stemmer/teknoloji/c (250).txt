@@ -1,1 +1,0 @@
-['\ufeff', 'nikol', 'labs', 'taraf', 'tasarlana', 'kılıf', 'ö', 'çevre', 'radyo', 'dalga', 'toplayıp', 'enerji', 'dönüştürüyor', 'ardı', 'enerji', 'batarya', 'aktarıyor', 'prototip', 'aşama', 'ola', 'ür', 'he', 'batarya', 'tamame', 'dolduramas', 'şarj', 'ömr', 'uzatmas', 'ipho', '’', 'nun', 'eleştirile', 'sorun', 'ola', '‘', 'pil', 'ömrü', '’', 'çare', 'olacak', 'gözüküyor']

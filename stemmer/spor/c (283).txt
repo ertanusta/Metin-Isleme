@@ -1,1 +1,0 @@
-['\ufeff', 'yeşil', '-', 'beyazlı', 'kulüp', 'yapıla', 'yazıl', 'açıklama', '"', 'başarıl', 'kaleç', 'mert', 'günok', 'yıllık', 'prensip', 'anlaşmas', 'sağla', 'hazira', 'pazartes', 'g', 'yapılacak', 'sağlık', 'kontroller', 'ardı', 'mert', 'günok', 'kendi', 'bursasporlu', 'yapa', 'resmi', 'sözleşme', 'imzalayacak', '"', 'denil']

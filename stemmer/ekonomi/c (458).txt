@@ -1,1 +1,0 @@
-['\ufeff', 'ramaza', 'ay', 'istanbul', 'fırın', 'pi', 'fiyat', 'lira', 'kuruş', 'ol', 'istanbul', '’', 'ramaza', 'pide', 'fiyat', 'belli', 'ol', 'gram', 'pi', 'lira', 'kuruş', 'gram', 'susamlı', 'yumurtal', 'pide', 'fiyat', 'lira', 'olacak', 'açıkla', 'ramaza', 'pide', 'türki', 'genel', 'satış', 'fiyat', '5', 'tl', 'olarak', 'belirtilmiş']

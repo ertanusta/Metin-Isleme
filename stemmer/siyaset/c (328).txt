@@ -1,1 +1,0 @@
-['\ufeff', 'radikal', '-', 'chp', 'lider', 'kemal', 'kılçdaroğlu', 'de', 'baykal', 'türki', 'büyük', 'millet', 'meclis', 'ye', 'töre', 'önce', 'bir', 'ara', 'gel']

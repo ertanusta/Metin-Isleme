@@ -1,1 +1,0 @@
-['\ufeff', 'demet', 'parlak', 'yarış', 'metre', 'santimetre', 'atlayarak', 'yıl', 'kırılamaya', 'tatian', 'köste', 'ait', 'ola', 'rekor', 'kıra', 'ilk', 'türk', 'sporcu', 'ol', 'kadın', 'sırık', 'atlama', 'eski', 'rekor', 'metre', 'santimetre', 'kıs', 'bir', 'sürelik', 'türk', 'vatandaşlık', 'geçirile', 'fenerbahçe', 'spor', 'kulüp', 'sporcus', 'tatian', 'köste', 'ait']

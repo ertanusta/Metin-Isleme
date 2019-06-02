@@ -1,1 +1,0 @@
-['\ufeff', 'foto', 'ga', 'tiklay']

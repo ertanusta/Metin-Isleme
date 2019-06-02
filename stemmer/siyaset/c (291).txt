@@ -1,1 +1,0 @@
-['\ufeff', 'salih', 'çolak', '/', 'ankar', 'parti', 'ön', 'gele', 'isim', 'verdik', 'bilgi', 'gör', 'bahçel', 'chp', 'koalisyo', 'hdp', '’', 'nin', 'destek', 'mümk', 'olduk', 'bir', 'tablo', 'ilişk', '“', 'hdp', 'bırak', 'koalisyo', 'aynı', 'cümle', 'iç', 'bil', 'olma', 'mümk', 'değil', '”', 'dedi', 'çağri', 'yapt']

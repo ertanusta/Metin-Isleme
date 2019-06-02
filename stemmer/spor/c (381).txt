@@ -1,1 +1,0 @@
-['\ufeff', 'fenerbahçe', 'şampiyon', 'ligi', 'mücadele', 'bir', 'maç', 'gol', 'atarak', 'lionel', 'messi', 'nin', 'rekor', 'ortak', 'ola', 'luiz', 'adriano', 'kulüp', 'tarih', 'yük', 'kontrat', 'bir', 'hazırladı', 'yönet', 'shakhtar', 'donetsk', 'bonservis', 'sorun', 'çözer', 'adriano', 'yıl', 'milyo', 'euro', 'luk', 'mukavele', 'imza', 'atacak']

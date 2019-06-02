@@ -1,1 +1,0 @@
-['\ufeff', 'istanbul', 'sanayi', 'oda', 'büyük', 'sanayi', 'kuruluş', 'araştırma', 'sonuç', 'açıkla', 'p', 'gör', 'öncek', 'yıl', 'birincis', 'tüpraş', 'y', 'birinci', 'öncek', 'yıl', 'ikincis', 'ford', 'otosa', 'y', 'ikinci', 'olur', 'üçüncülük', 'öncek', 'yıl', 'dördüncüs', 'oyak', 'renault', 'yüksel', 'dha']
